@@ -1,4 +1,4 @@
-# GitHub Wiki - DIO
+# GitHub Find - DIO
 
 Este projeto em react consiste em um projeto a nível de estudo na plataforma DIO. O mesmo tende a buscar pelo perfil de usuário do github e retornar os dados de repositório
 ## Autores
