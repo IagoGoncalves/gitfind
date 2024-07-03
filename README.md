@@ -17,8 +17,8 @@ Este projeto em react consiste em um projeto a nível de estudo na plataforma DI
 Instale gitfing com npm
 
 ```bash
-  npm install
   cd gitfind
+  npm install
   npm start
 ```
     
